@@ -1,0 +1,164 @@
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\appsettings.Development.json
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\appsettings.json
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\AchtungGame.Backend.staticwebassets.endpoints.json
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\AchtungGame.Backend.exe
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\AchtungGame.Backend.deps.json
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\AchtungGame.Backend.runtimeconfig.json
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\AchtungGame.Backend.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\AchtungGame.Backend.pdb
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\Newtonsoft.Json.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.csproj.AssemblyReference.cache
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.GeneratedMSBuildEditorConfig.editorconfig
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.AssemblyInfoInputs.cache
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.AssemblyInfo.cs
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.csproj.CoreCompileInputs.cache
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.MvcApplicationPartsAssemblyInfo.cs
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.MvcApplicationPartsAssemblyInfo.cache
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\scopedcss\bundle\AchtungGame.Backend.styles.css
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets.build.json
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets.development.json
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets\msbuild.AchtungGame.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets\msbuild.AchtungGame.Backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets\msbuild.build.AchtungGame.Backend.props
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AchtungGame.Backend.props
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AchtungGame.Backend.props
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets.pack.json
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\AchtungG.A04F9B3A.Up2Date
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\refint\AchtungGame.Backend.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.pdb
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.genruntimeconfig.cache
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\obj\Debug\net9.0\ref\AchtungGame.Backend.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\ChilliCream.Nitro.App.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\GreenDonut.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\GreenDonut.Abstractions.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\GreenDonut.Data.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\GreenDonut.Data.Abstractions.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\GreenDonut.Data.Primitives.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Abstractions.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.AspNetCore.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.AspNetCore.Abstractions.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.AspNetCore.Playground.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Authorization.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.CostAnalysis.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Data.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Execution.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Execution.Abstractions.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Execution.Projections.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Features.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Fetching.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Language.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Language.SyntaxTree.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Language.Utf8.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Language.Visitors.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Language.Web.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Primitives.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Server.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Subscriptions.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Subscriptions.InMemory.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Transport.Sockets.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Types.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Types.CursorPagination.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Types.CursorPagination.Extensions.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Types.Errors.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Types.Mutations.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Types.Queries.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Types.Scalars.Upload.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Types.Shared.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Utilities.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Utilities.DependencyInjection.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Validation.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\Microsoft.Extensions.ObjectPool.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\System.IO.Hashing.dll
+G:\Not Games\Coding Projects\achtung game\AchtungGame.Backend\bin\Debug\net9.0\Yarp.ReverseProxy.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\appsettings.Development.json
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\appsettings.json
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\AchtungGame.Backend.staticwebassets.endpoints.json
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\AchtungGame.Backend.exe
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\AchtungGame.Backend.deps.json
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\AchtungGame.Backend.runtimeconfig.json
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\AchtungGame.Backend.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\AchtungGame.Backend.pdb
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\ChilliCream.Nitro.App.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\GreenDonut.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\GreenDonut.Abstractions.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\GreenDonut.Data.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\GreenDonut.Data.Abstractions.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\GreenDonut.Data.Primitives.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Abstractions.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.AspNetCore.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.AspNetCore.Abstractions.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.AspNetCore.Playground.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Authorization.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.CostAnalysis.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Data.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Execution.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Execution.Abstractions.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Execution.Projections.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Features.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Fetching.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Language.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Language.SyntaxTree.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Language.Utf8.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Language.Visitors.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Language.Web.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Primitives.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Server.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Subscriptions.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Subscriptions.InMemory.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Transport.Sockets.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Types.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Types.CursorPagination.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Types.CursorPagination.Extensions.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Types.Errors.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Types.Mutations.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Types.Queries.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Types.Scalars.Upload.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Types.Shared.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Utilities.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Utilities.DependencyInjection.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\HotChocolate.Validation.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\Microsoft.Extensions.ObjectPool.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\Newtonsoft.Json.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\System.IO.Hashing.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\bin\Debug\net9.0\Yarp.ReverseProxy.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.csproj.AssemblyReference.cache
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.GeneratedMSBuildEditorConfig.editorconfig
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.AssemblyInfoInputs.cache
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.AssemblyInfo.cs
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.csproj.CoreCompileInputs.cache
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.MvcApplicationPartsAssemblyInfo.cs
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.MvcApplicationPartsAssemblyInfo.cache
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\scopedcss\bundle\AchtungGame.Backend.styles.css
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets.build.json
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets.development.json
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets\msbuild.AchtungGame.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets\msbuild.AchtungGame.Backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets\msbuild.build.AchtungGame.Backend.props
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AchtungGame.Backend.props
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AchtungGame.Backend.props
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\staticwebassets.pack.json
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\AchtungG.A04F9B3A.Up2Date
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\refint\AchtungGame.Backend.dll
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.pdb
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\AchtungGame.Backend.genruntimeconfig.cache
+G:\NotGames\CodingProjects\achtung-game\AchtungGame.Backend\obj\Debug\net9.0\ref\AchtungGame.Backend.dll

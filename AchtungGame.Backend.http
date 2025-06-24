@@ -1,0 +1,6 @@
+@AchtungGame.Backend_HostAddress = http://localhost:5249
+
+GET {{AchtungGame.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
